@@ -1,29 +1,20 @@
-# Olá, eu sou o Bielcx
+# Hi, I'm Gabriel Cavalcanti 👋
 
-Sou desenvolvedor fullstack focado em **frontend** e apaixonado por **desenvolvimento web**.  
-Atualmente explorando soluções em **React e Typescript**.
+**Bachelor’s degree in Information Systems (FIAP)** 
 
-## Tecnologias & Ferramentas
+---
 
-**Linguagens de Programação**
-- Java | Python | JavaScript | TypeScript | Swift
+### 🛠️ Technical Stack & Tools
 
-**Backend & Banco de Dados**
-- Node.js | SQL
+As a developer, I work with the following technologies:
 
-**Frontend & Mobile**
-- HTML5 | CSS3 | React | Flutter
+#### 🌐 Web Development
+- **Frontend:** ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+- **Backend:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-**Ferramentas, DevOps & Sistemas**
-- Docker | Git | Linux
-
-**Metodologias & Práticas**
-- Ágil (Scrum, Kanban) | CI/CD
-
-
-## Contato
-- [LinkedIn](https://linkedin.com/in/gabrielcavalcanti-dev)
-- biel.cavalcanti1@hotmail.com
+#### 📊 Data Intelligence & Business
+- **BI Tools:** ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) —
+- **Databases:** ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
