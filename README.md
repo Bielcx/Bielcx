@@ -23,7 +23,7 @@ Atualmente explorando soluções em **React e Typescript**.
 
 ## Contato
 - [LinkedIn](https://linkedin.com/in/gabrielcavalcanti-dev)
-- 📧 biel.cavalcanti1@hotmail.com
+- biel.cavalcanti1@hotmail.com
 
 ---
 
