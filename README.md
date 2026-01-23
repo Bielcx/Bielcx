@@ -3,9 +3,23 @@
 Sou desenvolvedor fullstack focado em **frontend** e apaixonado por **desenvolvimento web**.  
 Atualmente explorando soluções em **React e Typescript**.
 
-## Tecnologias
-- Java | Python | Node.js | SQL | Docker | Git
-- React  | JS | HTML5 | CSS3 
+## Tecnologias & Ferramentas
+
+**Linguagens de Programação**
+- Java | Python | JavaScript | TypeScript | Swift
+
+**Backend & Banco de Dados**
+- Node.js | SQL
+
+**Frontend & Mobile**
+- HTML5 | CSS3 | React | Flutter
+
+**Ferramentas, DevOps & Sistemas**
+- Docker | Git | Linux
+
+**Metodologias & Práticas**
+- Ágil (Scrum, Kanban) | CI/CD
+
 
 ## Contato
 - [LinkedIn](https://linkedin.com/in/gabrielcavalcanti-dev)
