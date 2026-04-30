@@ -2,8 +2,6 @@
 
 **Frontend Developer** · Bacharelado em Sistemas de Informação — FIAP
 
-Gosto de transformar interfaces em experiências — com atenção a detalhe, código limpo e componentes que fazem sentido.
-
 ---
 
 ### 🛠️ Stack
@@ -21,16 +19,35 @@ Gosto de transformar interfaces em experiências — com atenção a detalhe, c�
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
+#### IA & Cloud
+![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
 ---
 
 ### 🚀 Projetos em destaque
 
+**[🤖 AuditWise AI](https://github.com/Bielcx/AuditWise-AI)** · [Ver ao vivo](https://audit-wise-ai.vercel.app)
+
+Sistema de auditoria de documentos com IA — analisa kits de documentos em 30 segundos, identifica pendências automaticamente e dispara cobranças por email com escalada diária. Desenvolvido para resolver um problema real do dia a dia profissional.
+
+`React` `Node.js` `Google Gemini AI` `Supabase` `Resend` `Vercel`
+
+---
+
 **[🌊 Onda Finance](https://github.com/Bielcx/Onda-Finance-App-main)**
+
 App bancário moderno com dashboard de transações, transferências via Pix e persistência de estado.
+
 `React` `TypeScript` `Zustand` `React Query` `Zod` `Vitest`
 
+---
+
 **[📈 VentureFi](https://github.com/Bielcx)**
+
 TCC — Plataforma SaaS fullstack de gestão financeira com sugestões inteligentes de investimentos e relatórios interativos.
+
 `React` `Spring Boot` `Java` `SQL`
 
 ---
