@@ -43,6 +43,12 @@ TCC — Plataforma SaaS fullstack de gestão financeira com sugestões inteligen
 
 ---
 
+**[✋ Fiveout Dashboard](https://github.com/Bielcx/fiveout-dashboard)** · [Catálogo](https://fiveout-dashboard.vercel.app/catalogo)  
+Painel de gestão da minha loja de roupas — cadastro de peças, controle de estoque, catálogo público com integração WhatsApp e autenticação.  
+`Next.js` `TypeScript` `Supabase` `PostgreSQL` `Tailwind`
+
+---
+
 ### 📊 GitHub Stats
 <div align="center">
   <img height="160" src="https://streak-stats.demolab.com?user=Bielcx&theme=tokyonight&hide_border=true" />
