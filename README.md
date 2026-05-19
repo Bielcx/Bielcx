@@ -52,8 +52,8 @@ Painel de gestão da minha loja de roupas — cadastro de peças, controle de es
 ### 🤝 Open Source
 
 **[SkateHive](https://github.com/SkateHive/skatehive3.0)** — Webapp comunitário de skate
-- [feat: traduções pt-BR](https://github.com/SkateHive/skatehive3.0/pull/88) ✅ mergeado
-- [feat: widget SpotNearYou na sidebar](https://github.com/SkateHive/skatehive3.0/pull/92) ⏳ em revisão
+- [feat: traduções pt-BR](https://github.com/SkateHive/skatehive3.0/pull/88) ✅ 
+- [feat: widget SpotNearYou na sidebar](https://github.com/SkateHive/skatehive3.0/pull/92) ✅
 
 ---
 
