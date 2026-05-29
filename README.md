@@ -3,7 +3,7 @@
 
 ---
 
-### 🛠️ Stack
+###  Stack
 
 #### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -23,33 +23,33 @@
 
 ---
 
-### 🚀 Projetos em destaque
+###  Projetos em destaque
 
-**[🤖 AuditWise AI](https://github.com/Bielcx/AuditWise-AI)** · [Ver ao vivo](https://audit-wise-ai.vercel.app)  
+**[ AuditWise AI](https://github.com/Bielcx/AuditWise-AI)** · [Ver ao vivo](https://audit-wise-ai.vercel.app)  
 Sistema de auditoria de documentos com IA — analisa kits de documentos em 30 segundos, identifica pendências automaticamente e dispara cobranças por email com escalada diária. Desenvolvido para resolver um problema real do dia a dia profissional.  
 `React` `Node.js` `Google Gemini AI` `Supabase` `Resend` `Vercel`
 
 ---
 
-**[🌊 Onda Finance](https://github.com/Bielcx/Onda-Finance-App-main)** · [Ver ao vivo](https://onda-finance-app-main.vercel.app)  
+**[ Onda Finance](https://github.com/Bielcx/Onda-Finance-App-main)** · [Ver ao vivo](https://onda-finance-app-main.vercel.app)  
 App bancário fintech com dashboard de transações, transferência Pix com tela de confirmação, filtros por categoria, agrupamento por data e 17 testes automatizados.  
 `React` `TypeScript` `Zustand` `React Query` `Zod` `Vitest`
 
 ---
 
-**[📈 VentureFi](https://github.com/Bielcx/VentureFi)** · [Ver ao vivo](https://venturefi-gikn.vercel.app)  
+**[ VentureFi](https://github.com/Bielcx/VentureFi)** · [Ver ao vivo](https://venturefi-gikn.vercel.app)  
 TCC — Plataforma SaaS fullstack de gestão financeira com sugestões inteligentes de investimentos e relatórios interativos.  
 `Angular` `TypeScript` `SCSS`
 
 ---
 
-**[✋ Fiveout Dashboard](https://github.com/Bielcx/fiveout-dashboard)** · [Catálogo](https://fiveout-dashboard.vercel.app/catalogo)  
+**[ Fiveout Dashboard](https://github.com/Bielcx/fiveout-dashboard)** · [Catálogo](https://fiveout-dashboard.vercel.app/catalogo)  
 Painel de gestão da minha loja de roupas — cadastro de peças, controle de estoque, catálogo público com integração WhatsApp e autenticação.  
 `Next.js` `TypeScript` `Supabase` `PostgreSQL` `Tailwind`
 
 ---
 
-### 🤝 Open Source
+###  Open Source :)
 
 **[SkateHive](https://github.com/SkateHive/skatehive3.0)** — Webapp comunitário de skate
 - [feat: traduções pt-BR](https://github.com/SkateHive/skatehive3.0/pull/88) ✅ 
@@ -58,7 +58,7 @@ Painel de gestão da minha loja de roupas — cadastro de peças, controle de es
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 <div align="center">
   <img height="160" src="https://streak-stats.demolab.com?user=Bielcx&theme=tokyonight&hide_border=true" />
 </div>
