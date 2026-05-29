@@ -31,12 +31,6 @@ Sistema de auditoria de documentos com IA — analisa kits de documentos em 30 s
 
 ---
 
-**[ Onda Finance](https://github.com/Bielcx/Onda-Finance-App-main)** · [Ver ao vivo](https://onda-finance-app-main.vercel.app)  
-App bancário fintech com dashboard de transações, transferência Pix com tela de confirmação, filtros por categoria, agrupamento por data e 17 testes automatizados.  
-`React` `TypeScript` `Zustand` `React Query` `Zod` `Vitest`
-
----
-
 **[ VentureFi](https://github.com/Bielcx/VentureFi)** · [Ver ao vivo](https://venturefi-gikn.vercel.app)  
 TCC — Plataforma SaaS fullstack de gestão financeira com sugestões inteligentes de investimentos e relatórios interativos.  
 `Angular` `TypeScript` `SCSS`
