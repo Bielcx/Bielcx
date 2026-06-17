@@ -43,6 +43,10 @@
 
 ###  Projetos em destaque
 
+**[ Mirante Skateshop](https://github.com/Bielcx/mirante-skateshop)** · [Ver ao vivo](https://mirante-skateshop-2juhbfrs2-bielcxs-projects.vercel.app)  
+Landing page para skateshop com modelo 3D interativo de skate renderizado via WebGL, marquee infinito de marcas e navbar com efeito de redimensionamento no scroll. Construído para explorar animações e componentes modernos de UI em um projeto real.  
+`React` `TypeScript` `Three.js` `React Bits` `Aceternity UI` `Tailwind CSS` `Framer Motion`
+
 **[ AuditWise AI](https://github.com/Bielcx/AuditWise-AI)** · [Ver ao vivo](https://audit-wise-ai.vercel.app)  
 Sistema de auditoria de documentos com IA — analisa kits de documentos em 30 segundos, identifica pendências automaticamente e dispara cobranças por email com escalada diária. Desenvolvido para resolver um problema real do dia a dia profissional.  
 `React` `Node.js` `Google Gemini AI` `Supabase` `Resend` `Vercel`
