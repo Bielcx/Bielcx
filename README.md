@@ -8,7 +8,7 @@
 <a href="https://github.com/SkateHive"><img src="https://github.com/SkateHive.png" width="50" height="50" style="border-radius:50%" alt="SkateHive" /></a>
 <a href="https://github.com/gnars-dao"><img src="https://github.com/gnars-dao.png" width="50" height="50" style="border-radius:50%" alt="Gnars DAO" /></a>
 
-Contribuo com o **[SkateHive](https://github.com/SkateHive)** e o **[Gnars](https://github.com/gnars-dao)** — comunidades de skate on-chain (mesmo time, dois projetos: SkateHive é o portal Web3 da comunidade, Gnars é a DAO de action sports).
+Contribuo com o **[SkateHive](https://github.com/SkateHive)** e o **[Gnars](https://github.com/gnars-dao)** — comunidades de esportes on-chain (mesmo time, dois projetos: SkateHive é o portal Web3 da comunidade, Gnars é a DAO de action sports).
 
 ---
 
