@@ -3,8 +3,16 @@
 
 ---
 
-###  Stack
+###  Organizações
 
+<a href="https://github.com/SkateHive"><img src="https://github.com/SkateHive.png" width="50" height="50" style="border-radius:50%" alt="SkateHive" /></a>
+<a href="https://github.com/gnars-dao"><img src="https://github.com/gnars-dao.png" width="50" height="50" style="border-radius:50%" alt="Gnars DAO" /></a>
+
+Contribuo com o **[SkateHive](https://github.com/SkateHive)** e o **[Gnars](https://github.com/gnars-dao)** — comunidades de skate on-chain (mesmo time, dois projetos: SkateHive é o portal Web3 da comunidade, Gnars é a DAO de action sports).
+
+---
+
+###  Stack
 #### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -43,24 +51,24 @@
 
 ###  Projetos em destaque
 
-**[ Mirante Skateshop](https://github.com/Bielcx/mirante-skateshop)** · [Ver ao vivo](https://mirante-skateshop-2juhbfrs2-bielcxs-projects.vercel.app)  
-Landing page para skateshop com modelo 3D interativo de skate renderizado via WebGL, marquee infinito de marcas e navbar com efeito de redimensionamento no scroll. Construído para explorar animações e componentes modernos de UI em um projeto real.  
+**[ Mirante Skateshop](https://github.com/Bielcx/mirante-skateshop)** · [Ver ao vivo](https://mirante-skateshop-2juhbfrs2-bielcxs-projects.vercel.app)
+Landing page para skateshop com modelo 3D interativo de skate renderizado via WebGL, marquee infinito de marcas e navbar com efeito de redimensionamento no scroll. Construído para explorar animações e componentes modernos de UI em um projeto real.
 `React` `TypeScript` `Three.js` `React Bits` `Aceternity UI` `Tailwind CSS` `Framer Motion`
 
-**[ AuditWise AI](https://github.com/Bielcx/AuditWise-AI)** · [Ver ao vivo](https://audit-wise-ai.vercel.app)  
-Sistema de auditoria de documentos com IA — analisa kits de documentos em 30 segundos, identifica pendências automaticamente e dispara cobranças por email com escalada diária. Desenvolvido para resolver um problema real do dia a dia profissional.  
+**[ AuditWise AI](https://github.com/Bielcx/AuditWise-AI)** · [Ver ao vivo](https://audit-wise-ai.vercel.app)
+Sistema de auditoria de documentos com IA — analisa kits de documentos em 30 segundos, identifica pendências automaticamente e dispara cobranças por email com escalada diária. Desenvolvido para resolver um problema real do dia a dia profissional.
 `React` `Node.js` `Google Gemini AI` `Supabase` `Resend` `Vercel`
 
 ---
 
-**[ VentureFi](https://github.com/Bielcx/VentureFi)** · [Ver ao vivo](https://venturefi-gikn.vercel.app)  
-TCC — Plataforma SaaS fullstack de gestão financeira com sugestões inteligentes de investimentos e relatórios interativos.  
+**[ VentureFi](https://github.com/Bielcx/VentureFi)** · [Ver ao vivo](https://venturefi-gikn.vercel.app)
+TCC — Plataforma SaaS fullstack de gestão financeira com sugestões inteligentes de investimentos e relatórios interativos.
 `Angular` `TypeScript` `SCSS`
 
 ---
 
-**[ Fiveout Dashboard](https://github.com/Bielcx/fiveout-dashboard)** · [Catálogo](https://fiveout-dashboard.vercel.app/catalogo)  
-Painel de gestão da minha loja de roupas — cadastro de peças, controle de estoque, catálogo público com integração WhatsApp e autenticação.  
+**[ Fiveout Dashboard](https://github.com/Bielcx/fiveout-dashboard)** · [Catálogo](https://fiveout-dashboard.vercel.app/catalogo)
+Painel de gestão da minha loja de roupas — cadastro de peças, controle de estoque, catálogo público com integração WhatsApp e autenticação.
 `Next.js` `TypeScript` `Supabase` `PostgreSQL` `Tailwind`
 
 ---
@@ -68,9 +76,14 @@ Painel de gestão da minha loja de roupas — cadastro de peças, controle de es
 ###  Open Source :)
 
 **[SkateHive](https://github.com/SkateHive/skatehive3.0)** — Webapp comunitário de skate
-- [feat: traduções pt-BR](https://github.com/SkateHive/skatehive3.0/pull/88) ✅ 
+- [fix: avatar fallback shown despite valid profile image](https://github.com/SkateHive/skatehive3.0/pull/133) ✅
+- [fix(#128): markdown preview shows raw syntax instead of rendered formatting](https://github.com/SkateHive/skatehive3.0/pull/129) ✅
+- [fix: open ConnectionModal instead of dead /sign-in route in settings](https://github.com/SkateHive/skatehive3.0/pull/111) ✅
+- [fix(#97): recover from ChunkLoadError on skatehive.app home page](https://github.com/SkateHive/skatehive3.0/pull/106) ✅
+- [fix(#99): one-click bug reporting from error toasts](https://github.com/SkateHive/skatehive3.0/pull/103) ✅
 - [feat: widget SpotNearYou na sidebar](https://github.com/SkateHive/skatehive3.0/pull/92) ✅
-- [fix: one-click bug reporting from error toasts](https://github.com/SkateHive/skatehive3.0/pull/103) ✅
+
+**[Gnars DAO](https://github.com/gnars-dao)** — membro do time tech
 
 ---
 
