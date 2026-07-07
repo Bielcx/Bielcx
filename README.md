@@ -14,9 +14,10 @@ Contribuidor ativo do **[SkateHive](https://github.com/SkateHive)** e **[Gnars D
 
 ### Projetos em destaque
 
-**[Portfolio](https://github.com/Bielcx/Portfolio)**  ·  [Ver ao vivo](https://my-portfolio-weld-chi-85.vercel.app)
+**[Portfolio](https://github.com/Bielcx/Portfolio)**  ·  [Em construção](https://my-portfolio-weld-chi-85.vercel.app)
 
-Portfolio pessoal com terminal de abertura animado, PixelBlast WebGL, scroll zoom no hero e lightboard de skills. [EM ANDAMENTO]
+Portfolio pessoal com terminal de abertura animado, PixelBlast WebGL, scroll zoom no hero e lightboard de skills.
+
 `Next.js` `TypeScript` `Three.js` `Tailwind CSS v4` `Motion`
 
 ---
