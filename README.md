@@ -56,7 +56,11 @@ TCC — Plataforma SaaS de gestão financeira com sugestões inteligentes de inv
 
 ### Atividade
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bielcx&bg_color=000000&color=00ff41&line=00ff41&point=00ff41&area=true&area_color=00ff41&hide_border=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bielcx/bielcx/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bielcx/bielcx/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bielcx/bielcx/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
