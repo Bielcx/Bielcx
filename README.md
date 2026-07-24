@@ -1,4 +1,3 @@
-# Gabriel Cavalcanti
 **Fullstack Developer** · Bacharelado em Sistemas de Informação — FIAP
 
 ---
@@ -22,11 +21,21 @@ Portfolio pessoal com terminal de abertura animado, PixelBlast WebGL, scroll zoo
 
 ---
 
-**[Fiveout Dashboard](https://github.com/Bielcx/fiveout-dashboard)**  ·  [Catálogo](https://www.fiveoout.com.br)
+**[Fiveout](https://github.com/Bielcx/fiveout-dashboard)**  ·  [View](https://www.fiveoout.com.br)
 
 Painel fullstack para loja de streetwear — estoque em tempo real, catálogo público e integração WhatsApp com autenticação SSR.
 
 `Next.js` `TypeScript` `Supabase` `PostgreSQL` `Tailwind`
+
+---
+
+---
+
+**[Voha](https://github.com/Bielcx/voha-lab)**  ·  [View](https://voha-lab.com.br/)
+
+Plataforma mobile-first de planejamento, aprovação e agendamento de conteúdo para Instagram.
+
+`Next.js` `TypeScript` `React` `Supabase` `Tailwind` `Cloudflare Workers` 
 
 ---
 
