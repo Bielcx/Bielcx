@@ -2,12 +2,11 @@
 
 ---
 
-### Organizações
+###  Crew
 
-<a href="https://github.com/SkateHive"><img src="https://github.com/SkateHive.png" width="50" height="50" style="border-radius:50%" alt="SkateHive" /></a>
-<a href="https://github.com/gnars-dao"><img src="https://github.com/gnars-dao.png" width="50" height="50" style="border-radius:50%" alt="Gnars DAO" /></a>
+<a href="https://github.com/sopa-agency"><img src="https://github.com/sopa-agency.png" width="50" height="50" style="border-radius:50%" alt="Sopa" /></a>
 
-Contribuidor ativo do **[SkateHive](https://github.com/SkateHive)** e **[Gnars DAO](https://github.com/gnars-dao)** — comunidades de esportes on-chain construídas sobre Hive e Ethereum.
+Sou parte da **[Sopa](https://sopa.team)** — estúdio de engenharia e criação que constrói agentes de IA, automação de campanhas e ferramentas onchain para marcas e comunidades como **[SkateHive](https://skatehive.app)** e **[Gnars](https://gnars.com)**.
 
 ---
 
@@ -26,8 +25,6 @@ Portfolio pessoal com terminal de abertura animado, PixelBlast WebGL, scroll zoo
 Painel fullstack para loja de streetwear — estoque em tempo real, catálogo público e integração WhatsApp com autenticação SSR.
 
 `Next.js` `TypeScript` `Supabase` `PostgreSQL` `Tailwind`
-
----
 
 ---
 
@@ -52,3 +49,4 @@ Plataforma mobile-first de planejamento, aprovação e agendamento de conteúdo 
 ### 📬 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielcavalcanti-dev/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/498311067148222465)
+[![Sopa](https://img.shields.io/badge/Sopa-000000?style=flat-square&logoColor=white)](https://sopa.team)
