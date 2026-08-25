@@ -12,7 +12,7 @@ Sou parte da **[Sopa](https://sopa.team)** — estúdio de engenharia e criaçã
 
 ### Projetos em destaque
 
-**[Portfolio](https://github.com/Bielcx/Portfolio)**  ·  [Preview em construção](https://my-portfolio-weld-chi-85.vercel.app)
+**[Portfolio](https://github.com/Bielcx/Portfolio)**  ·  [Preview em construção](https://gabrielcavalcanti.vercel.app/)
 
 Portfolio pessoal com terminal de abertura animado, PixelBlast WebGL, scroll zoom no hero e lightboard de skills.
 
